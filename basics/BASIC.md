@@ -6,7 +6,33 @@
 - Expressions, Statements, and Blocks
 - Control Flow Statements
 
+
 # Variables
+
+1- There are many kinds of variables in ``Java:``
+
+2- Instance Variables ``(Non-Static)`` : declared without static keyword, these variables are unique for each instance of the class (each object)
+
+3- Class Variables ``(Static)`` : declared with static keyword, meaning there is one copy of the variable regardless of how many instance have been created.
+
+4- Local Variables : these variables are declared within the state of the object itself (Locally) and are only accessible to the methods and not the rest of the classes.
+
+5- Parameters : variables accepted by a such as:
+````
+public static void main (String[] args) // String[] args is considered a parameter 
+````
+----
+# Naming in Java:
+
+* Variables are case-sensitive.
+
+* Variables name can have Letters,digits and two special characters ( _ and $ ).
+
+* Names start with a letter,underscore or $ sign but can not start with a number.
+
+* White space is not allowed
+
+* Can not be a reserved keyword like ( int,String )
 ### In java we use many differnt type of variable , for example :
 
 * String
