@@ -185,10 +185,13 @@ Instead of trying to remember everything, instead remember you can easily look s
  
 # Making a Directory
 ### Linux organises it's file system in a hierarchical way. Over time you'll tend to build up a fair amount of data . It's important that we create a directory structure that will help us organise that data in a manageable way. I've seen way too many people just dump everything directly at the base of their home directory and waste a lot of their time trying to find what they are after amongst 100's (or even 1000's) of other files. Develop the habit of organising your stuff into an elegant file structure now and you will thank yourself for years to come.
+
 ---
+
 ``mkdir [options] <Directory>
 ``
 ---
+
 ```
 1. hashemsmadi: pwd
 2. /mnt/c/Users/Smadi
@@ -231,6 +234,7 @@ barney example1 foo
 ```
 ---
 # Summary
+---
 ```
 mkdir
 Make Directory - ie. Create a directory.
