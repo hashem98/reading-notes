@@ -234,8 +234,10 @@ barney example1 foo
 ```
 ---
 # Summary
+
 ---
-```
+
+````
 mkdir
 Make Directory - ie. Create a directory.
 
@@ -261,7 +263,8 @@ The Linux command line does not have an undo feature. Perform destructive action
 
 Command line options
 Most commands have many useful command line options. Make sure you skim the man page for new commands so you are familiar with what they can do and what is available.
-```
+````
+
 ---
 
 
