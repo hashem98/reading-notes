@@ -1,5 +1,5 @@
 # SQL
-## SQL stand for Structured Query Language and it is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database
+#### SQL stand for Structured Query Language and it is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database
 
 * SQL databases provide safe and scalable storage for millions of websites and mobile applications.
 
