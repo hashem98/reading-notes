@@ -5,7 +5,7 @@
 
 | Class      | Title |
 | ----------- | ----------- |
-| class01      | [java basics](https://github.com/hashem98/reading-notes/blob/main/basics/Basic.md)       |
-| SQL      | [SQL](https://github.com/hashem98/reading-notes/blob/main/SQL/SQL.md)       |
+| class01      | [java basics](https://hashem98.github.io/reading-notes/basics/Basic)       |
+| SQL      | [SQL](https://hashem98.github.io/reading-notes/SQL/SQL)       |
   
 
