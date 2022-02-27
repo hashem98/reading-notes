@@ -11,6 +11,8 @@
 | Terminal      | [Terminal](https://hashem98.github.io/reading-notes/Terminal/TERMINAL)       |
 | Read02  | [Arrays, Loops, Imports](https://hashem98.github.io/reading-notes/class02/Read02)       |
 | Read03  | [Maps, primitives, File I/O](https://hashem98.github.io/reading-notes/class03/Read03)       |
+| Read04  | [OOP](https://hashem98.github.io/reading-notes/class04/Read04)       |
+
 
 
 
