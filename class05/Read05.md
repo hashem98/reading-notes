@@ -1,5 +1,6 @@
 # Linked List
 ## Linked List - A data structure that contains nodes that links/points to the next node in the list.
+![Linked List](./LinkedList.png)
 
 ---
 ## types of linked list
