@@ -15,6 +15,8 @@
 | Read05  | [Linked List](https://hashem98.github.io/reading-notes/class05/Read05)       |
 | Read06  | [Inheritance and Interfaces](https://hashem98.github.io/reading-notes/class06/Read06)       |
 | Read08  | [OO Design](https://hashem98.github.io/reading-notes/class08/Read08)       |
+| Read09  | [WRRC and Java](https://hashem98.github.io/reading-notes/class09/Read09)       |
+
 
 
 
