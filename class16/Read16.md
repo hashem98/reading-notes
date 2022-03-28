@@ -24,7 +24,7 @@ public interface AuthenticationProvider {
 
 ## Customizing Authentication Managers
 
-Spring Security provides some configuration helpers to quickly get common authentication manager features set up in your application like `AuthenticationManagerBuilder`
+### Spring Security provides some configuration helpers to quickly get common authentication manager features set up in your application like `AuthenticationManagerBuilder`
 ```
 @Configuration
 public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
@@ -45,7 +45,7 @@ public class ApplicationSecurity extends WebSecurityConfigurerAdapter {
 
 ## Authorization or Access Control
 
-There are three implementations provided by the framework and all three delegate to a chain of AccessDecisionVoter instances,
+### There are three implementations provided by the framework and all three delegate to a chain of AccessDecisionVoter instances,
 
 ```
 boolean supports(ConfigAttribute attribute);
