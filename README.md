@@ -21,8 +21,10 @@
 | Read12  | [Spring RequestMapping](https://hashem98.github.io/reading-notes/class12/Read12)       |
 | Read13  | [Related Resources and Integration Testing](https://hashem98.github.io/reading-notes/class13/Read13)       |
 | Read15  | [Tree](https://hashem98.github.io/reading-notes/class15/Read15)       |
-| Read17  | [Spring Auth1](https://hashem98.github.io/reading-notes/class16/Read16)       |
+| Read16  | [Spring Auth1](https://hashem98.github.io/reading-notes/class16/Read16)       |
 | Read17  | [Spring Auth2](https://hashem98.github.io/reading-notes/class17/Read17)       |
+| Read18  | [Web App Security](https://hashem98.github.io/reading-notes/class18/Read18)       |
+
 
 
 
