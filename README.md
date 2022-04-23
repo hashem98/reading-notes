@@ -25,6 +25,8 @@
 | Read17  | [Spring Auth2](https://hashem98.github.io/reading-notes/class17/Read17)       |
 | Read18  | [Web App Security](https://hashem98.github.io/reading-notes/class18/Read18)       |
 | Read19  | [Spring and Sockets](https://hashem98.github.io/reading-notes/class19/Read19)       |
+| Read26  | [Android Fundamentals](https://hashem98.github.io/reading-notes/class26/Read26)       |
+
 
 
 
