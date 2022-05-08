@@ -28,6 +28,8 @@
 | Read26  | [Android Fundamentals](https://hashem98.github.io/reading-notes/class26/Read26)       |
 | Read27  | [Intents, Activities, and SharedPreferences](https://hashem98.github.io/reading-notes/class27/Read27)       |
 | Read28  | [RecyclerView](https://hashem98.github.io/reading-notes/class28/Read28)       |
+| Read28  | [Room](https://hashem98.github.io/reading-notes/class29/Read29)       |
+
 
 
 
