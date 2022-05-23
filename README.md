@@ -34,6 +34,8 @@
 | Read32  | [Serverless and Amplify](https://hashem98.github.io/reading-notes/class32/Read32)       |
 | Read33  | [GraphQL @connection](https://hashem98.github.io/reading-notes/class33/Read33)       |
 | Read34  | [Monetization](https://hashem98.github.io/reading-notes/class34/Read34)       |
+| Read35  | [Graphs](https://hashem98.github.io/reading-notes/class35/Read35)       |
+
 
 
 
