@@ -74,4 +74,3 @@ An adjacency list is a collection of linked lists or array that lists all of the
 
 
 
-![graphs](102/img/graphs.png)
