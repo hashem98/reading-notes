@@ -37,6 +37,8 @@
 | Read35  | [Graphs](https://hashem98.github.io/reading-notes/class35/Read35)      |
 | Read36  | [Amplify and Cognito](https://hashem98.github.io/reading-notes/class36/Read36)      |
 | Read37  | [Amazon S3](https://hashem98.github.io/reading-notes/class37/Read37)      |
+| Read38  | [Notification](https://hashem98.github.io/reading-notes/class38/Read38)      |
+
 
 
 
